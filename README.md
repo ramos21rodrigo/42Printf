@@ -36,7 +36,7 @@ cc main.c libftprintf.a
 
 - [x] [Printf Tester](https://github.com/Tripouille/printfTester)
 
-- [x] [Ft Printf Tester]([https://github.com/y3ll0w42/libft-war-machine](https://github.com/paulo-santana/ft_printf_tester))
+- [x] [Ft Printf Tester]((https://github.com/paulo-santana/ft_printf_tester))
 
   
 ___
