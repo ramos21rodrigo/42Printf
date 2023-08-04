@@ -36,8 +36,8 @@ cc main.c libftprintf.a
 
 - [x] [Printf Tester](https://github.com/Tripouille/printfTester)
 
-- [x] [Ft Printf Tester]((https://github.com/paulo-santana/ft_printf_tester))
 
+- [x] [Ft Printf Tester](https://github.com/paulo-santana/ft_printf_tester)
   
 ___
 ######  At [42School](https://en.wikipedia.org/wiki/42_(school)), almost every project must be written in accordance to the [Norm](https://github.com/42School/norminette). As a result, parts of the code could be more readable or explcit.
