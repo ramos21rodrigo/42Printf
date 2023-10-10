@@ -1,11 +1,13 @@
-# 42: ft_printf <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Logo" width="45" height="45" align="right" /> &nbsp;
+# [100/100] ft_printf
+__This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.__    
 
-## Grade: 100/100
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff&style=flat")
 
-### ♠️ About
-> This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects. 
+## 🌟 Skills
+> Algorithms & AI
+> Rigor
 
-### ♥️ Installing and running the project:
+## ⬇️ Installing and running the project:
 1. Clone recursively && cd
 
 ```
@@ -23,7 +25,7 @@ make
 cc main.c libftprintf.a
 ```
 
-### ♣️ Makefile Available Targets:
+## ⚙️ Makefile Available Targets:
 - `make` or `make all` - Makes _libftprintf.a_
 
 - `make clean` - Deletes all the resulting object files
@@ -32,7 +34,7 @@ cc main.c libftprintf.a
 
 - `make re` - Deletes everything (object files and _libftprintf.a_) and rebuilds _libftprintf.a_
 
-### ♦️ Tests:
+## ⚒️ Tests:
 
 - [x] [Printf Tester](https://github.com/Tripouille/printfTester)
 
